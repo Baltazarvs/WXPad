@@ -1,4 +1,5 @@
 // Created 2021 Baltazarus
+// wxpad.cpp was something like unneeded, but I added it like starting point of an app.
 
 #include "MainApp.h"
 
