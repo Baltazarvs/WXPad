@@ -28,7 +28,8 @@ cd source
 g++ wxpad.cpp MainApp.cpp AppFrame.cpp `wx-config --cxxflags --libs` -o WXPad
 ```
 
-After this, just run like ./WXPad
+After this, just run like ./WXPad<br>
+For this method, you must have wxWidgets installed!
 
 - **-o WXPad** is optional. Put whatever you want, but it must match with ./THIS_TEXT
 
